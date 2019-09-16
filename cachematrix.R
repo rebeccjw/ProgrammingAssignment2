@@ -32,3 +32,4 @@ cacheSolve <- function(x, ...) {
     inv <- solve(data, ) #solve for the inverse matrix, with x as input and b as the identity matrix
     inv #return the inverse matrix
 }
+
